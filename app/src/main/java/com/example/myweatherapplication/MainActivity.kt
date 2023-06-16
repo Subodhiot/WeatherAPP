@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
 
 //    var CITY: String = "delhi"
-    var a = 6;
+
     val API: String = "9451f617404e49085cf8ea5911c2cc2f"
     private lateinit var fusedLocationProviderClient: FusedLocationProviderClient
     private lateinit var tvLatitude: TextView
